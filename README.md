@@ -7,5 +7,5 @@ Some Jupyter notebooks applying different machine learning algorithms to regress
   
 * KNearestNeighbors
 
-  Using k-nearest neighbors regressor to predicto car prices
+  Using k-nearest neighbors regressor to predict car prices
   
